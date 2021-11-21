@@ -1,0 +1,26 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot voor @edl_farming_pics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "Discord",
+    "discord",
+    "bot",
+    "robot",
+    "youtube",
+    "fs19",
+    "fs22",
+    "discord",
+    "server"
+  ],
+  "author": "Ferre Boden",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.0"
+  }
+}
