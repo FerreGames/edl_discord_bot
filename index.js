@@ -109,7 +109,7 @@ client.on("messageCreate", async message => {
 
     try {
 
-        await commandData.run(client, message, argumpents);
+        await commandData.run(client, message, arguments);
 
     } catch (error) {
         console.log(error);
