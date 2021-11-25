@@ -115,4 +115,4 @@ client.on("messageCreate", async message => {
         console.log(error);
         await message.reply("Er is een fout opgetreden.") 
     }
-});
+}); 
